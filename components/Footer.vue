@@ -5,14 +5,20 @@
         <router-link to="/" class="footer-logo" exact-active-class="active">
           <img alt="einfachIOTA" class="logo" src="../assets/logo.svg" />
         </router-link>
-        <p><a class="footer-main-link" href="https://einfachiota.com/">An einfachIOTA Project</a> </p>
+        <p>
+          <a class="footer-main-link" href="https://einfachiota.com/">An einfachIOTA Project</a>
+        </p>
         <p>IOTA simple and easy</p>
       </div>
       <div class="footer-main">
         <h4>einfachIOTA</h4>
         <div class="divider"></div>
         <!--<a href="https://magazin.einfachiota.de" target="_blank" class="footer-main-link">Magazin</a>-->
-        <a href="https://www.einfachiota.com" target="_blank" class="footer-main-link">einfachIOTA.com</a>
+        <a
+          href="https://www.einfachiota.com"
+          target="_blank"
+          class="footer-main-link"
+        >einfachIOTA.com</a>
         <a href="https://www.einfachiota.de" target="_blank" class="footer-main-link">einfachIOTA.de</a>
         <a href="https://shop.einfachiota.com" target="_blank" class="footer-main-link">Magazine</a>
       </div>
@@ -25,7 +31,7 @@
       <div class="footer-main">
         <h4>IOTA</h4>
         <div class="divider"></div>
-        <a href="https://www.iota.org" target="_blank" class="footer-main-link">Webseite</a>
+        <a href="https://www.iota.org" target="_blank" class="footer-main-link">Website</a>
         <a href="https://blog.iota.org" target="_blank" class="footer-main-link">Blog</a>
         <a href="https://ecosystem.iota.org" class="footer-main-link">Ecosystem</a>
       </div>
@@ -38,8 +44,8 @@
         <a href="https://github.com/einfachiota" target="_blank" class="footer-main-link">Github</a>
       </div>
       <div class="footer-bottom-col">
-        <router-link to="imprint" class="footer-main-link">Impressum</router-link>
-        <router-link to="privacy" class="footer-main-link">Datenschutz</router-link>
+        <a href="https://www.einfachiota.de/#/imprint" target="_blank" class="footer-main-link">Imprint</a>
+        <a href="https://www.einfachio" target="_blank" class="footer-main-link">Privacy Policy</a>
       </div>
     </div>
   </div>
