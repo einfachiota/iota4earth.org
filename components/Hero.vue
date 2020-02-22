@@ -3,7 +3,12 @@
     <img class="image" src="@/assets/hero1.jpeg" alt="">
     <div class="content">
         <h2>IOTΛ for Earth</h2>
-        <p>IOTΛ4Earth is an initiative to highlight projects and people from the IOTΛ community that have a positive impact for our earth. All these projects are housed by the IOTΛ Ecosystem and are tagged with "iota4earth".</p>
+        <p>IOTΛ4Earth is an initiative to highlight projects and people from the IOTΛ community that have a positive impact for our earth.</p>
+        <br>
+        <br>
+        <h3>Contact</h3>
+        <p>in the #iota4earth Channel on the <a href="https://discord.gg/WdfXseU" target="_blank" class="link">einfachIOTA Discord Server</a></p>
+        <p>or per mail: hello(at)iota4earth.org</p>
     </div>
 </div>
 </template>
