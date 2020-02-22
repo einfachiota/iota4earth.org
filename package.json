@@ -1,7 +1,7 @@
 {
   "name": "iota4earth.org",
-  "version": "1.0.0",
-  "description": "Landing page for iota4earth.org",
+  "version": "0.0.1",
+  "description": "IOTΛ4Earth is an initiative to support projects and people who have a positive impact on our earth.",
   "author": "huhn511",
   "private": true,
   "scripts": {

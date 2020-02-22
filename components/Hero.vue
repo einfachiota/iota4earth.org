@@ -3,7 +3,7 @@
     <img class="image" src="@/assets/hero1.jpeg" alt="">
     <div class="content">
         <h2>IOTΛ for Earth</h2>
-        <p>IOTΛ4Earth is an initiative to highlight projects and people from the IOTΛ community that have a positive impact for our earth.</p>
+        <p>IOTΛ4Earth is an initiative to support projects and people who have a positive impact on our earth.</p>
         <br>
         <br>
         <h3>Contact</h3>
