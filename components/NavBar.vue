@@ -15,7 +15,7 @@
     <div v-bind:class="{ open: navStateOpen }" class="nav-menu">
       <router-link
         v-on:click.native="navStateOpen = false"
-        to="/news"
+        to="/"
         class="nav-item"
         active-class="active"
       >

@@ -13,7 +13,7 @@
       <NavBar />
     </el-header>
     <el-main>
-      <router-view />
+      <Hero />
     </el-main>
     <el-footer>
       <Footer />
@@ -23,9 +23,10 @@
 
 <script>
 import NavBar from "@/components/NavBar.vue";
+import Hero from "@/components/Hero.vue";
 import Footer from "@/components/Footer.vue";
 export default {
-  components: { NavBar, Footer }
+  components: { NavBar, Hero, Footer }
 };
 </script>
 
@@ -75,7 +76,7 @@ body {
   }
 }
 .el-main {
-  margin-top: 150px;
+  padding: 0;
 }
 h1,
 h2,
